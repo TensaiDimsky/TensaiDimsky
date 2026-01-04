@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**TensaiDimsky/TensaiDimsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi there 👋, I'm Dimas Wibisono
-
 🎯 **Data Analyst | Business Intelligence Enthusiast**
 
 Saya seorang **Data Analyst** yang tertarik pada pengolahan data, analisis bisnis, dan pengambilan keputusan berbasis data. Berpengalaman dalam data cleaning, exploratory data analysis (EDA), visualisasi, serta menyajikan insight yang actionable untuk stakeholder.
@@ -54,3 +50,8 @@ Saya seorang **Data Analyst** yang tertarik pada pengolahan data, analisis bisni
 - 📧 Email: *[wibisonopanji4@gmail.com]*
 
 ⭐ Jangan ragu untuk melihat repository saya dan beri feedback!
+<!--
+**TensaiDimsky/TensaiDimsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Dimas Wibisono
+
+
