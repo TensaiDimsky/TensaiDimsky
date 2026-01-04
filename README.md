@@ -48,8 +48,6 @@ Saya seorang **Data Analyst** yang tertarik pada pengolahan data, analisis bisni
 ## 📫 Let's Connect
 - 💼 LinkedIn: *[www.linkedin.com/in/dimas-wibisono-53972020a]*
 - 📧 Email: *[wibisonopanji4@gmail.com]*
-
-⭐ Jangan ragu untuk melihat repository saya dan beri feedback!
 <!--
 **TensaiDimsky/TensaiDimsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi there 👋, I'm Dimas Wibisono
